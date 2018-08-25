@@ -1,0 +1,140 @@
+body{
+    margin: auto;
+    width: 994px;
+    height: auto;
+    background: #e2e2e2;
+    text-align: center;
+    color: #7c6f71;
+}
+
+#main_section{
+    width: 900px;
+    height: 500px;
+    background-color: #fff;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    box-shadow: 1px 2px 3px 3px rgba(209, 202, 203, 0.88);
+}
+#header_div{
+    width: 900px;
+    height: auto;
+    text-align: center;
+    margin: 20px auto ;
+    font-weight: bolder;
+}
+#head_divider{
+    width: 100%;
+    height: 1px;
+    margin: 0;
+    background-color: #e2e2e2
+}
+
+#left_side {
+    float: left;
+    width: 200px;
+    padding: auto;
+}
+#right_side {
+    float: right;
+    width: 700px;
+    height: available;
+}
+#new_data{
+    width: 100%;
+    height: auto;
+}
+#new_data > p > form {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+#new_data > p {
+    width: 100%;
+    height: auto;
+}
+#form_text {
+    left: 50%;
+    background-color: #fff;
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+    color: black;
+    padding: 5px;
+}
+#info {
+    width: 200px;
+    height: 400px;
+    float: left;
+    margin-top: 5px;
+}
+#info_p {
+    border: 1px solid #e2e2e2;
+    margin: 0 10px;
+    padding: 8px 0;
+    background: white;
+    font-size: 12px;
+}
+#stack_items {
+    margin: 0 auto;
+    width: 178px;
+    overflow: auto;
+    height: 100%;
+    border: 1px solid #e2e2e2;
+}
+#stack_item {
+    margin: 0;
+    padding: 7px;
+    height: 20px;
+    font-size: medium;
+    border-bottom: 1px solid #e2e2e2;
+}
+.form_submit {
+    width: 100px;
+    border: 1px solid #e2e2e3;
+    text-align: center;
+    border-radius: 3px;
+    background-color: white;
+    padding: 5px;
+    color: black;
+}
+.form_submit:hover {
+    background: #efefef;
+    cursor: pointer;
+}
+#container {
+    width: 100%;
+    height: 100%;
+    margin: 70px auto;
+}
+#main_operation {
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding: 15px 0;
+    background: coral;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px 3px #d4d4d4;
+}
+#search_result {
+    text-align: left;
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    background: coral;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px 3px #d4d4d4;
+}
+
+
+
+
+
+
+
+
